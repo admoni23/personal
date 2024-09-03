@@ -74,6 +74,9 @@ The CompTIA Security+ Labs section includes exercises designed to reinforce key 
 - **Skills Covered:** Network design, secure architecture.
 - **Files:** [Secure_Network_Design.pdf](SecurityPlusLabs/SecureNetworkDesign/Secure_Network_Design.pdf)
 
+![image](https://github.com/user-attachments/assets/7e01cc25-8ca4-4c14-9dae-25780abfb577)
+
+
 ### Lab 2: Cryptography Essentials
 
 - **Objective:** Explore encryption and decryption processes, and implement basic cryptographic algorithms.
