@@ -38,6 +38,8 @@ The Cisco Lab Exercises section includes hands-on labs that cover fundamental to
 - **Skills Covered:** Basic configuration commands, securing access to the router.
 - **Files:** [Router_Config.txt](CiscoLabs/BasicRouterConfig/Router_Config.txt)
 
+![image](https://github.com/user-attachments/assets/7e01cc25-8ca4-4c14-9dae-25780abfb577)
+
 ### Lab 2: VLANs and Trunking
 
 - **Objective:** Create and manage VLANs, configure trunk ports, and verify connectivity.
@@ -73,9 +75,6 @@ The CompTIA Security+ Labs section includes exercises designed to reinforce key 
 - **Objective:** Design a secure network topology that includes segmentation, firewalls, and DMZs.
 - **Skills Covered:** Network design, secure architecture.
 - **Files:** [Secure_Network_Design.pdf](SecurityPlusLabs/SecureNetworkDesign/Secure_Network_Design.pdf)
-
-![image](https://github.com/user-attachments/assets/7e01cc25-8ca4-4c14-9dae-25780abfb577)
-
 
 ### Lab 2: Cryptography Essentials
 
